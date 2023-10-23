@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_HarfNotuHesaplama", "WFA_HarfNotuHesaplama\WFA_HarfNotuHesaplama.csproj", "{361EE73D-0DA6-40AE-B17C-8B20AB906E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361EE73D-0DA6-40AE-B17C-8B20AB906E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361EE73D-0DA6-40AE-B17C-8B20AB906E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361EE73D-0DA6-40AE-B17C-8B20AB906E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361EE73D-0DA6-40AE-B17C-8B20AB906E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E937E4B9-F9B0-4C31-BF1B-9FE9C4585506}
+	EndGlobalSection
+EndGlobal
